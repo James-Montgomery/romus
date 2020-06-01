@@ -1,0 +1,34 @@
+# Compiled python modules.
+*.pyc
+/dask-worker-space
+__pycache__
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+.eggs
+
+# ipython notebook checkpoints
+.ipynb_checkpoints
+*.ipynb
+!notebooks/*.ipynb
+
+# Mac files
+.DS_Store
+
+# IDE
+.idea
+*.xml
+*.iml
+
+# pypi build files
+build
+dist
+/dist/
+squidward.egg-info
+
+# testing files
+.coverage
+
+!notebooks/examples/*.ipynb
+!notebooks/misc/*.ipynb
+!notebooks/model_specifications/*.ipynb
