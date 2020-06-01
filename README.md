@@ -108,6 +108,7 @@ A big thank you to Keegan Hines and Mack Sweeney both of who helped start me on 
 
 This package is still in the development phase. Here I list some tasks that are still left to be completed...
 
+* Add ToC to README
 * Add gibbs samplers to package
 * Add mixture conjugate models to package
 * Fill out examples
@@ -126,11 +127,18 @@ This package is still in the development phase. Here I list some tasks that are 
 
 ## Useful Resources
 
+### General
+
 * [Wikipedia](https://en.wikipedia.org/wiki/Conjugate_prior)
 * [Conjugate Compedndium](https://www.johndcook.com/CompendiumOfConjugatePriors.pdf)
-* [](http://www.mas.ncl.ac.uk/~nmf16/teaching/mas3301/week4.pdf)
-* [](http://www.mas.ncl.ac.uk/~nmf16/teaching/mas3301/week5.pdf)
-* [](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading15a.pdf)
-* [](http://halweb.uc3m.es/esp/Personal/personas/mwiper/docencia/English/PhD_Bayesian_Statistics/ch3_2009.pdf)
-* [](https://www.johndcook.com/negative_binomial.pdf)
-* [](https://stats.stackexchange.com/questions/311088/beta-binomial-as-conjugate-to-hypergeometric)
+* [MAS3301 Bayesian Statistics W4](http://www.mas.ncl.ac.uk/~nmf16/teaching/mas3301/week4.pdf)
+* [MAS3301 Bayesian Statistics W5](http://www.mas.ncl.ac.uk/~nmf16/teaching/mas3301/week5.pdf)
+* [MIT18-05S14 Reading15a](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading15a.pdf)
+* [Conjugate families of distributions](http://halweb.uc3m.es/esp/Personal/personas/mwiper/docencia/English/PhD_Bayesian_Statistics/ch3_2009.pdf)
+
+### Distribution Specific
+
+* [The Conjugate Prior for the Normal Distribution](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/lectures/lecture5.pdf)
+* [Conjugate Bayesian analysis of the Gaussian distribution](https://www.cs.ubc.ca/~murphyk/Papers/bayesGauss.pdf)
+* [Notes on the Negative Binomial Distribution](https://www.johndcook.com/negative_binomial.pdf)
+* [Beta-Binomial vs Hypergeometric](https://stats.stackexchange.com/questions/311088/beta-binomial-as-conjugate-to-hypergeometric)
