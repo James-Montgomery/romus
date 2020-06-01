@@ -124,6 +124,7 @@ This package is still in the development phase. Here I list some tasks that are 
   * Smoke Tests
   * Integration Tests
 * Add docs
+* Add branch protection
 
 ## Useful Resources
 
